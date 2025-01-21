@@ -2,5 +2,6 @@
 
 int main(void)
 {
-    printf("Hello world!\n"); //Added commment
+    printf("Hello 12 COM A!\n"); //Added commment
+
 }
