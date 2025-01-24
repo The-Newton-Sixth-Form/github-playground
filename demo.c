@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Y13 COM A! Message from another computer\n"); //Added commment 
-    printf("This is created on the 13COM A branch\n");
+    printf("Y13 COM A & B! Message from another computer\n"); //Added commment 
+    printf("This is created on the 13COM A branch and merged into the main\n");
 }
