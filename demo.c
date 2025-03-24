@@ -8,5 +8,5 @@ int main(void)
     printf("I am going to commit this and link it to #9\n");
     printf("This is a test to make the exercise work.\n");
     printf("Test.\n");
-    printf("VS Code\n");
+    printf("VS Code\n"); // This is to demo
 }
